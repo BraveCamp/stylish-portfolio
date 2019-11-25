@@ -1,5 +1,5 @@
 # stylish-portfolio
 
-Template with large description sections and bold colors
+Template for high school students; one-page scroll; large description sections and bold colors
 
-Preview at https://bravecamptemplates.github.io/stylish-portfolio/
+Preview at https://bravecamp.github.io/stylish-portfolio/
