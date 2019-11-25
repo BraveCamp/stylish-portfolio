@@ -2,4 +2,4 @@
 
 Template for high school students; one-page scroll; large description sections and bold colors
 
-Preview at https://bravecamp.github.io/stylish-portfolio/
+Preview at https://BraveCamp.github.io/stylish-portfolio/
